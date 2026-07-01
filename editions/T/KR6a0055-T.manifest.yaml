@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6a0055/T/v1
+canonical_location: https://kanripo.org/bkk/KR6a0055/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 苦陰因事經
+  identifiers:
+    krp: KR6a0055
+    cbeta: T01n0055
+    cbeta_old_id: T01n0055
+    authorityid: CA0001927
+    json_key: T0055
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0055.xml
+    old_id: T01n0055
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0055_000-T.yaml, hash: 'sha256:a5245c440593cd7b854f05f46f3ac27f1fdafb6bea6483395946f001c3055b2d'}
+  - {seq: 1, filename: KR6a0055_001-T.yaml, hash: 'sha256:c9e32fdfdaa6195cdc635f73bfb6d83987edd121c2fb26ea2938fa2cd541b501'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6a0055_000-T.markers.yaml, hash: 'sha256:37a1ed3cdd7b883fbb1a06861f38db6836358e4b71a4585e5d1d76da634e4df1'}
+  - {seq: 1, role: markers, filename: assets/KR6a0055_001-T.markers.yaml, hash: 'sha256:8e3ab3a847e008cd879223dd7b55db20347a5a8dd5c26faeb032e2f674376058'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0055_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2266
+  label: 佛說苦陰因事經
+  type: juan
+  level: 1
+hash: sha256:87aed653451080705f02b05e4b4eb11d6e656bae9af18ec2e0e212ebf8fcded4
