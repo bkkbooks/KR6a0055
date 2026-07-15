@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0055/v1
 canonical_location: https://kanripo.org/bkk/KR6a0055/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 苦陰因事經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0055_000.yaml, hash: 'sha256:a5245c440593cd7b854f05f46f3ac27f1fdafb6bea6483395946f001c3055b2d'}
-  - {seq: 1, filename: KR6a0055_001.yaml, hash: 'sha256:c9e32fdfdaa6195cdc635f73bfb6d83987edd121c2fb26ea2938fa2cd541b501'}
+  - {seq: 1, filename: KR6a0055_001.yaml, hash: 'sha256:5da19e2962bebd74a67c200cd864bc8cb3afa553db9e95a3414863aaf604843c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0055_000.markers.yaml, hash: 'sha256:0db34458a5ee1a61f509aa849f7006602f6895f17f5ffd642c4e955b893b9af8'}
-  - {seq: 1, role: markers, filename: assets/KR6a0055_001.markers.yaml, hash: 'sha256:058ae57da4676dfce7679b3eb293e8099048b94bff45f292a1516c8e736bf9e8'}
+  - {seq: 1, role: markers, filename: assets/KR6a0055_001.markers.yaml, hash: 'sha256:7eb683ecf136fc1582468009817a18346850a5aeca81c3c19e981cfb3c0b1571'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說苦陰因事經
   type: juan
   level: 1
-hash: sha256:dc68ec313d01b8a8ecb63b042ea97102a9965b2030b37abf3b544b0f90a289fc
+hash: sha256:4a4c469daa52d105fa1ac7483ca5d117dcbb41db448f55932ee20a4d57d04665
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
