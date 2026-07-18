@@ -33,7 +33,7 @@ assets:
   - {seq: 0, filename: KR6a0055_000.yaml, hash: 'sha256:a5245c440593cd7b854f05f46f3ac27f1fdafb6bea6483395946f001c3055b2d'}
   - {seq: 1, filename: KR6a0055_001.yaml, hash: 'sha256:5da19e2962bebd74a67c200cd864bc8cb3afa553db9e95a3414863aaf604843c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0055_000.markers.yaml, hash: 'sha256:0db34458a5ee1a61f509aa849f7006602f6895f17f5ffd642c4e955b893b9af8'}
+  - {seq: 0, role: markers, filename: assets/KR6a0055_000.markers.yaml, hash: 'sha256:ccb9c7fe2aef3f362d47e44290dc73a6f4c2959888cf54bf70fae8a5d126cfc4'}
   - {seq: 1, role: markers, filename: assets/KR6a0055_001.markers.yaml, hash: 'sha256:7eb683ecf136fc1582468009817a18346850a5aeca81c3c19e981cfb3c0b1571'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 佛說苦陰因事經
   type: juan
   level: 1
-hash: sha256:4a4c469daa52d105fa1ac7483ca5d117dcbb41db448f55932ee20a4d57d04665
+hash: sha256:4d3d7e759f1ac5c2d1b009fde4e76f2e2a9c66854e0464c4c0662ae21ba9ae94
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
